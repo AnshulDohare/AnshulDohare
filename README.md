@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnshulDohare
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning ADS
+- 🌱 I’m currently learning DSA in C++.
 - 💞️ I’m looking to collaborate on 
      any web development project
 - 📫 How to reach me ... My email - anshuldohare6904@gmail.com
