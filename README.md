@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnshulDohare
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Android Development
 - 🌱 I’m currently learning DSA in C++.
 - 💞️ I’m looking to collaborate on 
      any web development project
