@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning DSA in C++.
 - 💞️ I’m looking to collaborate on 
-     any web development project
+     any app development project.
 - 📫 How to reach me ... My email - anshuldohare6904@gmail.com
 
 <!---
