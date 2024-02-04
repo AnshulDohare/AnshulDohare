@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @AnshulDohare
+- 👋 Hi, I’m **AnshulDohare**
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning DSA in C++.
-- 💞️ I’m looking to collaborate on 
-     any app development project.
-- 📫 How to reach me ... My email - anshuldohare6904@gmail.com
+- 🌱 I’m currently learning Java and Android App Development.
+- 💞️ I’m looking to collaborate on any app development project.
+- 📫 How to reach me ... My email - anshuldohare6903@gmail.com
 
 <!---
 AnshulDohare/AnshulDohare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
